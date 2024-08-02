@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm @seriousfuzzy</h1>
+<h3 align="center">A passionate frontend developer from Japan</h3>
 
-<!--
-**seriousfuzzy/seriousfuzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Awesome Project**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Advanced React patterns, TypeScript, and WebAssembly**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **Innovative UI Library**
+
+- 🤝 I’m looking for help with **Interactive Design System**
+
+- 👨‍💻 All of my projects are available at [My Portfolio](My Portfolio)
+
+- 📝 I regularly write articles on [My Blog](My Blog)
+
+- 💬 Ask me about **React, Vue, and GSAP**
+
+- 📄 Know about my experiences [My Resume](My Resume)
+
+- ⚡ Fun fact **I love creating animated web experiences and often integrate playful interactions in my projects.**
+
+<div align='center'>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=seriousfuzzy&show_icons=true&locale=en" alt="seriousfuzzy" height='160'/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seriousfuzzy&" alt="seriousfuzzy" height='160'/>
+</div>
